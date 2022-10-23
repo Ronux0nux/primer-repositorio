@@ -9,7 +9,7 @@
 
 4)  Seleccionar y abrir cmd y dirigirse a una carpeta seleccionada para descargar este repositorio
 
-5)  Descargar con el comando git clone [link del repositorio ----------]
+5)  Descargar con el comando git clone .... https://github.com/Ronux0nux/primer-repositorio.git
 
     Pasos 2 Instalar Python:
     
